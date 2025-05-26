@@ -1,0 +1,4 @@
+Explicacion
+
+Consiste en la creacion de objetos que implementan la misma interfaz interfaz 
+dependiendo el parametro el parametro pasado.

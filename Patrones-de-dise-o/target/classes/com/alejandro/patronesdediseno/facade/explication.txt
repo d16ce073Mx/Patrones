@@ -1,0 +1,2 @@
+An example of this design could be the pages like depegar.com or booking which are only an intermediary 
+between more complex APIs and the client

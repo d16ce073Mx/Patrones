@@ -1,0 +1,1 @@
+Add functionality through an abstract class that inherits from an interface that implements the basic methods

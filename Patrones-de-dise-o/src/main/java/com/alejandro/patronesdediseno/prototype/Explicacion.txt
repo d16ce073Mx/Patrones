@@ -1,0 +1,4 @@
+Explicacion
+
+Consiste en crear una compia identica de un objeto atraves de una interfas
+que extiende de clonable

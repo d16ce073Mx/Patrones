@@ -1,0 +1,1 @@
+Use a intermediary between client and server

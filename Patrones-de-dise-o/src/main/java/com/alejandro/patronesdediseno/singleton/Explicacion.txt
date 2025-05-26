@@ -1,0 +1,4 @@
+Explicacion
+
+Consiste en crear una unica instancia de un objeto poniendo el constructor privado
+y obteniendo esta instancia mediamte el metodo getInstance()
